@@ -44,7 +44,7 @@ const translations: Record<string, Record<Language, string>> = {
   "studio.book": { en: "Book Studio", he: "הזמנת סטודיו" },
   "studio.inquiry": { en: "Studio Rental Inquiry", he: "פנייה להשכרת סטודיו" },
   "studio.space": { en: "The Space", he: "החלל" },
-  "studio.spaceDesc": { en: "A 120sqm professional production studio with 4m ceiling height, blackout capabilities, and industrial aesthetic. Located in central Israel with easy access and parking.", he: "סטודיו הפקות מקצועי בשטח 120 מ\"ר עם תקרה בגובה 4 מטר, יכולת האפלה מלאה ואסתטיקה תעשייתית. ממוקם במרכז הארץ עם גישה נוחה וחניה." },
+  "studio.spaceDesc": { en: "A 120sqm professional production studio with 4m ceiling height, blackout capabilities, and industrial aesthetic. Located in central Israel with easy access and parking.", he: "סטודיו הפקות מקצועי בשטח 120 מ"ר עם תקרה בגובה 4 מטר, יכולת האפלה מלאה ואסתטיקה תעשייתית. ממוקם במרכז הארץ עם גישה נוחה וחניה." },
   "studio.equipment": { en: "Equipment", he: "ציוד" },
   "studio.equipmentList": { en: "Profoto lighting system|Backdrop system (paper & fabric)|C-stands & grip equipment|Makeup station|Client lounge area|Wi-Fi & tethering setup", he: "מערכת תאורה Profoto|מערכת רקעים (נייר ובד)|C-stands וציוד גריפ|תחנת איפור|אזור לאונג' ללקוחות|Wi-Fi והגדרת Tethering" },
   "studio.lighting": { en: "Lighting", he: "תאורה" },
